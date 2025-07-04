@@ -1,1 +1,1 @@
-# cursorjunit.github.io
+# cursorjunit
